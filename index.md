@@ -1,7 +1,3 @@
-<header>
- <h1> Annie Yang </h1>
-</header>
-
 ## Background
 
 Graduated from Harvard University in 2014 with a degree in Psychology and minor in Computer Science. Professional experience in strategy, analytics, and financial planning at Goldman Sachs' Investment Management division. Currently working as an internal consultant at Chase focusing on the payments industry.
