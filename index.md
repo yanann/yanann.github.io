@@ -8,4 +8,4 @@ Collection of past projects from college and current works in progress:
 
   * Harvard CS109 2013 Final Team Project: [March Madness Projections](/finalproject_Final_v2.html)
   * Stanford CS106X: [Assignments](https://github.com/yanann/StanfordCS_Assignments)
-  * To come: predictive loan default from kaggle datasets
+  * Work in progress: [Credit Card Fraud Prediction] (https://www.kaggle.com/annibabani/exploration-of-svm-vs-neural-network)
