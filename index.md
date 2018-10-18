@@ -1,6 +1,13 @@
 ## Background
 
-Graduated from Harvard University in 2014 with a degree in Psychology and minor in Computer Science. Professional experience in strategy, analytics, and financial planning at Goldman Sachs' Investment Management division. Currently working as an internal consultant at Chase focusing on the payments industry.
+Product manager with technical background and strategy experience. Prior work experience includes Addepar (internship), JPMorgan Chase, and Goldman Sachs. Select projects include:
+
+* Conducting user research, roadmapping, and MVP feature specifications (Addepar)
+* Creating product strategy for small business loan product at (JPMorgan Chase)
+* Proposing new pricing strategy for small business payments (JPMorgan Chase)
+* Managing cross-functional team to create multi-dimensional P&L database
+
+Currently pursuing an MBA at HBS. Graduated from Harvard in 2014 in Psychology with a minor in Computer Science
 
 ## Coding samples
 
