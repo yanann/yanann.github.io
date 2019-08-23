@@ -2,8 +2,8 @@
 
 Product manager with technical background and strategy experience. Prior work experience includes Twilio (product management internship), Addepar (product management internship), JPMorgan Chase, and Goldman Sachs. Select projects include:
 
-* Experimentation design to drive two-factor authentication adoption (Twilio)
-* Product requirement document (PRD) for Enterprise Portal Nofiticaton Center
+* Experimentation designs to drive two-factor authentication adoption (Twilio)
+* Product requirement document (PRD) for Enterprise Portal Nofiticaton Center (Twilio)
 * Conducting user research, roadmapping, and MVP feature specifications (Addepar)
 * Creating product strategy for small business loan product at (JPMorgan)
 * Proposing new pricing strategy for small business payments (JPMorgan)
